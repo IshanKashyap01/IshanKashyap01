@@ -58,6 +58,11 @@ A task is completed
 Code structure is changed but the functionality remains the same. Include changes
 made for readability as well.
 
+### Docs
+
+Documentation is added to the project. Includes all types of documentation such
+as javadoc, SRS, etc.
+
 ### Test
 
 Unit tests are added
