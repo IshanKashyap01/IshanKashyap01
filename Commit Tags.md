@@ -72,6 +72,10 @@ Unit tests are added
 Marks a stable (runnable) version on the feature branch. This exist because some
 commits in the feature branches may add incomplete code or have failing tests.
 
+### Config
+
+Changes in configuration files such as build.xml, pom.xml, .gitignore etc.
+
 ## Specific For Notes
 
 ### Topic
