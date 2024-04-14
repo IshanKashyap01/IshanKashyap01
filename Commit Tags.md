@@ -49,6 +49,11 @@ A feature is merged into the integration branch
 
 Marks a finished product ready for distribution and usage
 
+### Version
+
+A new version is created but isn't exactly a release version. Can be a version
+that looks like release (x.y.z) but there are no `releases` based on that anywhere
+
 ### Task
 
 A task is completed
