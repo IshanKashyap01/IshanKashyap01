@@ -66,7 +66,7 @@ made for readability as well.
 ### Docs
 
 Documentation is added to the project. Includes all types of documentation such
-as javadoc, SRS, etc.
+as javadoc, SRS, UML diagrams, comments (in all files) etc.
 
 ### Test
 
