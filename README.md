@@ -16,7 +16,7 @@ I aim to pursue a challenging career and be a part of a progressive organization
 
 ![Git](https://img.icons8.com/color/48/000000/git.png) Git  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKashyap01&layout=compact)](https://github.com/IshanKashyap01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanKashyap01)]()
 
 ## Connect 🌐
 
